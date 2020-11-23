@@ -1,0 +1,59 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 40px;
+    background-color: #ADBA91;
+  }
+
+.background {
+    background-image: url(htmlbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    position: fixed;
+    min-height: 100VH;
+    padding-bottom: 40px;
+    z-index: -1;
+    width: 100%;
+    left: 0;
+    top: 0 ;
+}  
+
+content {
+    flex: 1 0 auto;
+  }
+
+.nav {
+    background-color: #c7d4ab!important;
+
+}
+
+.paddingSpace {
+    height: 50px;
+}
+
+.contactIcon {
+    color: black;
+    margin: 10px;
+}
+
+.jumboInfo {
+    background-color: rgba(255, 255, 255, 0.55);
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border-radius: 25px;
+}
+
+
+.portfolioCard {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
