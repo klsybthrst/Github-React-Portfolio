@@ -22,11 +22,19 @@ Responsively Designed Portfolio
 <img width="1426" alt="Screen Shot 2020-10-12 at 12 11 38 PM" src="https://user-images.githubusercontent.com/70531552/95768321-1e63b780-0c84-11eb-82e5-33c8e36fbd97.png">
 <img width="575" alt="Screen Shot 2020-10-12 at 12 12 32 PM" src="https://user-images.githubusercontent.com/70531552/95768368-389d9580-0c84-11eb-94c5-6e50ab88ad03.png">
 
+<h2>Link</h2>
+<a href="https://klsybthrst.github.io/ReactPortfolio/">Portfolio</a>
+
 
 <h2>Roadmap</h2>
-<p>I plan to continue to update, change and evolve this site as I learn more skills. Javascript will probably be the next item I add as it will allow my hamburger to drop when opened on smartphone, for example. I also hope to add some media queries to adjust my background and/or boxes when opened on a smaller screen.</p>
+<p>I plan to continue to update, change and evolve this site as I learn more skills. </p>
 
 <p>I also hope to continue to use this page as my portfolio grows.</p>
 
 <h2>Acknowledgments</h2> 
 <p>Special thanks for the suggestions on style from Ben Scotland and Levi Halvorson.</p>
+
+<h2>Contact</h2>
+
+<p>Feel free to contact me through my github account if you have any questions!<p/>
+<a href="https://github.com/klsybthrst">klsybthrst</a>
